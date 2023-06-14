@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5774649",
+      "name": "连衣裙",
+      "font_class": "lianyiqun",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "6038173",
+      "name": "Kc",
+      "font_class": "Kc",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}
